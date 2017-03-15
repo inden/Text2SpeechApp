@@ -1,0 +1,174 @@
+<recettes>
+    <recette>
+        <titre>Cake jambon olive</titre>
+        <star>5</star>
+        <ingredients personnes="5">
+            <item>250 g de farine</item>
+            <item>250 g de jambon fumé</item>
+            <item>150 g de gruyère râpé</item>
+            <item>100 g d'olives vertes dénoyautées</item>
+            <item>4 oeufs</item>
+            <item>20 g de beurre</item>
+            <item>10 cl d'huile d'olive</item>
+            <item>1 sachet de levure</item>
+            <item>poivre</item>
+        </ingredients>
+        <preparation>
+            <etape>
+                réchauffez le four à 180°C (thermostat 6). Coupez le jambon en dés.
+            </etape>
+            <etape>Versez dans un saladier la farine et la levure tamisées. Ajoutez les oeufs et
+                l'huile d'olive. Continuez à travailler la pâte jusqu'à l'obtention d'une crème
+                lisse.
+            </etape>
+            <etape>Ajoutez les dés de jambon à cette pâte, les olives, le gruyère et une bonne
+                pincée de poivre. Mélangez le tout.
+            </etape>
+            <etape>Beurrez un moule à cake, versez-y la préparation et laissez cuire 45 minutes.
+            </etape>
+        </preparation>
+    </recette>
+    <recette>
+        <titre>Velouté de poireaux</titre>
+        <star>4</star>
+        <ingredients personnes="4">
+            <item>4 poireaux</item>
+            <item>1 grosse pomme de terre</item>
+            <item>2 cuillères à soupe d'huile d'olive
+            </item>
+            <item>1/2 l de bouillon de poule (soit une bouillon cube dilué dans 1/2 l d'eau
+                bouillante)
+            </item>
+            <item>4 oeufs</item>
+            <item>1 cuillère à soupe de persil haché</item>
+            <item>1sel, poivre</item>
+        </ingredients>
+        <preparation>
+            <etape>
+                Détailler la partie blanche des poireaux en petits tronçons et les passer sous l'eau
+                dans une passoire pour bien les laver.
+            </etape>
+            <etape>Faire revenir l'oignon émincé dans une casserole à feu doux, avec l'huile
+                d'olive. Une fois qu'il est translucide, ajouter les poireaux et les faire revenir
+                le temps qu'ils dorent un peu et qu'ils "fondent".
+            </etape>
+            <etape>Ajouter la pomme de terre coupée en morceaux, ainsi que le bouillon de poule.
+                Laisser mijoter à feux doux pendant 35 minutes.
+            </etape>
+            <etape>Passer le tout au blender ou au presse-purée électrique afin d'obtenir un mélange
+                homgène assez fin. Ajouter le lait et utiliser le blender à nouveau. Rectifier la
+                quantité de lait en fonction de la consistance de soupe souhaitée (plus il y a de
+                lait, plus la soupe est liquide).
+            </etape>
+        </preparation>
+    </recette>
+    <recette>
+        <titre>Feuilletés au chèvre</titre>
+        <star>4.5</star>
+        <ingredients personnes="4">
+            <item>1 pâte feuilletée</item>
+            <item>1 bûche de Chèvre</item>
+            <item>huile d’olive
+            </item>
+            <item>herbes de Provence</item>
+            <item>100 g d’allumettes de bacon ou 1 tranche de jambon de pays</item>
+            <item>poivre</item>
+            <item>un peu de lait</item>
+        </ingredients>
+        <preparation>
+            <etape>Couper la pâte feuilletée en 4 parts de façon à former 4 triangles. Sur chacun,
+                disposer deux rondelles de chèvre un peu épaisses et les faire se chevaucher.
+            </etape>
+            <etape>Arroser d’un court filet d’huile d’olive et mettre les herbes de provence puis le
+                poivre. Ajouter, sur le chèvre, les allumettes de bacon que l’on aura fait
+                revenir au préalable ou le jambon de pays coupé en petits morceaux.
+            </etape>
+            <etape>Replier la pâte de façon à former un feuilleté qui soit joliment présenté et qui
+                soit bien fermé pour que la
+                garniture reste à l’intérieur. Passer un peu de lait sur les feuilletés pour qu’ils
+                dorent.
+            </etape>
+            <etape>Mettre dans un plat allant au four sans ajouter de graisse pendant 15 minutes,
+                thermostat 5
+                (soit 150°c à 180°c). Surveiller la cuisson.
+            </etape>
+        </preparation>
+    </recette>
+    <recette>
+        <titre>Millefeuille de la mer</titre>
+        <star>4.2</star>
+        <ingredients personnes="6">
+            <item>2 boîtes de crabe au naturel</item>
+            <item>8 tranches de saumon fumé</item>
+            <item>4 petites échalotes</item>
+            <item>2 cuillères à soupe d'huile d'olive</item>
+            <item>sel, poivre</item>
+        </ingredients>
+        <preparation>
+            <etape>Egouttez le crabe. Ouvrez une boîte vide des deux côtés afin de disposer d'un
+                cercle de 8 cm de diamètre. A l'aide de ce cercle, découpez deux ronds dans chaque
+                tranche de saumon.
+            </etape>
+            <etape>Récupérez les chutes et hachez-les. Pelez et hachez finement les échalotes.
+                Ciselez les fines herbes..
+            </etape>
+            <etape>Effilochez la chair de crabe en éliminant les cartilages. Incorporez-lui le
+                saumon haché, les échalotes, les fines herbes et l'huile. Poivrez.
+            </etape>
+        </preparation>
+    </recette>
+    <recette>
+        <titre>Maffine Thon olive</titre>
+        <star>4.6</star>
+        <ingredients personnes="5">
+            <item>250 g de farine</item>
+            <item>250 g de Thon</item>
+            <item>150 g de gruyère râpé
+            </item>
+            <item>100 g d'olives vertes dénoyautées</item>
+            <item>4 oeufs</item>
+            <item>20 g de beurre</item>
+            <item>10 cl d'huile d'olive</item>
+            <item>1 sachet de levure</item>
+            <item>poivre</item>
+        </ingredients>
+        <preparation>
+            <etape>
+                réchauffez le four à 180°C (thermostat 6). Coupez le jambon en dés.
+            </etape>
+            <etape>Versez dans un saladier la farine et la levure tamisées. Ajoutez les oeufs et
+                l'huile d'olive. Continuez à travailler la pâte jusqu'à l'obtention d'une crème
+                lisse.
+            </etape>
+            <etape>Ajoutez les dés de jambon à cette pâte, les olives, le gruyère et une bonne
+                pincée de poivre. Mélangez le tout.
+            </etape>
+            <etape>Beurrez un moule à cake, versez-y la préparation et laissez cuire 45 minutes.
+            </etape>
+        </preparation>
+    </recette>
+    <recette>
+        <titre>Terrine de thon aux légumes</titre>
+        <star>5</star>
+        <ingredients personnes="6">
+            <item>4 oeufs</item>
+            <item>20 cl de crème fraîche épaisse</item>
+            <item>150 g de thon en boite</item>
+            <item>400 g de macédoine de légumes (1 grande boîte)</item>
+            <item>120 g de fromage râpé</item>
+            <item>2 cuillères à soupe de chapelure</item>
+            <item>sel, poivre</item>
+            <item>4 à 5 cuillères à soupe d'herbes (ciboulette, persil)</item>
+        </ingredients>
+        <preparation>
+            <etape>Préchauffer le four à 200°C, thermostat 6-7.</etape>
+            <etape>Battre les œufs avec la crème fraîche et bien homogénéiser. Ajouter le thon
+                émietté et la macédoine préalablement égouttée puis le fromage râpé et la chapelure.
+                Assaisonner et ajouter les herbes.
+            </etape>
+            <etape>Verser dans un moule à cake et enfourner 45 à 60 minutes. Vérifier la cuisson
+                avec un couteau.
+            </etape>
+        </preparation>
+    </recette>
+</recettes>
