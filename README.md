@@ -21,6 +21,8 @@ Click the "stop" image button to stop.
 <img src="https://cloud.githubusercontent.com/assets/21304543/23956318/a62054c4-099c-11e7-833c-75c43d0048ef.png" width="400"/>
 
 
+Credit to the icon image : flaticon.com licence creative commons 3.0
+
 ## API 19 or later required ##
 
 ## Technology ##
