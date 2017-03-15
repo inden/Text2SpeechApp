@@ -4,7 +4,7 @@ The reading quality is quite good.
 
 Recepies are stored in xml format. 
 It is parsed by XmlPullParser and transformed in HTML string for the display. 
-When the TextToSpeech reads the text, some silence is added to make it easier to be understood. 
+When the TextToSpeech reads the text, I add some silence between phrases to make it easier to be understood. 
 The length of silence varies according to Html tag types.
 
 ## How to use ##
